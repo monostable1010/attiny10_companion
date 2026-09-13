@@ -220,8 +220,3 @@ The upstream [`bdpdx/ATtiny10Programmer`](https://github.com/bdpdx/ATtiny10Progr
 project is released under the MIT License and contains its own author credits.
 The applicable upstream notice is preserved in
 [`THIRD_PARTY_NOTICES.md`](THIRD_PARTY_NOTICES.md).
-
-This companion repository currently does not declare a license for its own
-code. Do not assume that the companion code is MIT-licensed merely because the
-upstream project is; add a project license before redistributing or reusing
-this repository's code.
